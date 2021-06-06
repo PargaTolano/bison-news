@@ -1,0 +1,6 @@
+{
+    "schema"    :"http", 
+    "host"      :"localhost",
+    "port"      :"80",
+    "basePath"  :"bison-news"
+}
