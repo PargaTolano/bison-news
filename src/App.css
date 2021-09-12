@@ -1,3 +1,20 @@
+:root{
+  --theme-foreground-color: #FFFFFF;
+  --theme-background-color: #000000;
+  --theme-midground-color : #444444;
+
+  --theme-foreground-font-color: #000000;
+  --theme-background-font-color: #FFFFFF;
+  --theme-midground-font-color : #FFFFFF;
+
+  --theme-border-radius:  15px;
+  --theme-padding:        15px;
+  --theme-margin:         15px; 
+  --theme-grid-spacing-x: 15px;
+  --theme-grid-spacing-y: 15px;
+  --theme-hover-scale   : 101%;
+}
+
 .App {
   text-align: center;
 }

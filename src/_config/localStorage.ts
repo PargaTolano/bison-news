@@ -1,0 +1,1 @@
+export const authKey : string = 'bison-news-auth';
